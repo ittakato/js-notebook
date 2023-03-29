@@ -1,6 +1,6 @@
 {
   "name": "web-jsnotebook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "scripts": {
     "start": "tsc --watch --preserveWatchOutput",
@@ -17,11 +17,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@web-jsnotebook/local-client": "^1.0.1"
+    "@web-jsnotebook/local-client": "^1.0.2"
   },
   "devDependencies": {
     "@types/node": "^18.15.11",
-    "@web-jsnotebook/local-api": "^1.0.1",
+    "@web-jsnotebook/local-api": "^1.0.2",
     "commander": "^10.0.0",
     "esbuild": "0.8.26",
     "typescript": "^5.0.2"
