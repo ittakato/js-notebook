@@ -4,10 +4,6 @@
 
 ![js-notebook example](docs/resources/example-image.jpg 'js-notebook example')
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ## Installation
 
 To run the app, use the following command (_npx comes with npm 5.2+_):
@@ -20,7 +16,7 @@ For a local installation, make sure you have
 [node installed](https://nodejs.org/en/download) and run:
 
 ```bash
-npm install -g js-notebooks
+$ npm install -g js-notebooks
 ```
 
 ## Usage
