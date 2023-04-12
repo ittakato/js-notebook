@@ -9,13 +9,13 @@
 To run the app, use the following command (_npx comes with npm 5.2+_):
 
 ```bash
-$ npx js-notebook serve
+$ npx web-jsnotebook serve
 ```
 
 For a local installation, run:
 
 ```bash
-$ npm install -g js-notebooks
+$ npm install -g web-jsnotebook
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ $ npm install -g js-notebooks
 This task will create a `notebook.js` file in the current directory.
 
 ```bash
-$ npx js-notebook serve
+$ npx web-jsnotebook serve
 ```
 
 #### Specifying port number
@@ -35,7 +35,7 @@ $ npx js-notebook serve
 This task will create a `notebook.js` file in the current directory and use the specified port number.
 
 ```bash
-$ npx js-notebook serve --port <port>
+$ npx web-jsnotebook serve --port <port>
 ```
 
 #### Specifying file name
@@ -43,7 +43,7 @@ $ npx js-notebook serve --port <port>
 This task will create a `test.js` file in the current directory
 
 ```bash
-$ npx js-notebook serve test.js
+$ npx web-jsnotebook serve test.js
 ```
 
 ## Built With
